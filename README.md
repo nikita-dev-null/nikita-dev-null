@@ -10,6 +10,11 @@ Technologies that I use:
 * Terraform
 * REST
 * SQL and NoSQL
+* Virtualization (KVM and QEMU)
+
+and also
+* Analytics in Quality Assurance
+* Automation of development processes
 
 <!--
 **nikita-dev-null/nikita-dev-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
