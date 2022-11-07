@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'am Software Developer and QA Engineer.
+
+Technologies that I use:
+* Java
+* Spring Boot
+* Go
+* Kotlin
+* Terraform
+* REST
+* SQL and NoSQL
+
 <!--
 **nikita-dev-null/nikita-dev-null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
