@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-I'am Software Developer and QA Engineer.
+I'am mobile Software Developer and QA Engineer.
 
 Technologies that I use:
 * Java
-* Spring Boot
-* Go
 * Kotlin
-* Terraform
+* Android SDK
+* CI/CD
 * REST
 * SQL and NoSQL
-* Virtualization (KVM and QEMU)
+* Terraform
 
 and also
 * Analytics in Quality Assurance
